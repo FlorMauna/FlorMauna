@@ -21,6 +21,6 @@
 
 
 ### Contact Me
-<a href="www.linkedin.com/in/florencia-mauna-user-experience-designer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Florencia%20Mauna-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/florencia-mauna-user-experience-designer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Florencia%20Mauna-blue?style=flat-square&logo=linkedin"></a>
 <a href="florrrmauna@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-florrrmauna@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
