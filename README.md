@@ -4,7 +4,7 @@
 ### About Me
 - I am 29 years old and I am from Mar del Plata, Buenos Aires, Argentina.
 - I am passionate about videogames and user research.
-- I enjoy I enjoy creating fun, dynamic and, above all, gamified user experiences 🎲
+- I enjoy creating fun, dynamic and, above all, gamified user experiences 🎲
 - I speak Japanese (intermediate), Korean (basic) and English (high).
 
 ### Technologies
